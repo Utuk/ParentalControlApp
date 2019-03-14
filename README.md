@@ -7,15 +7,15 @@ It also enables the parent to create long playlists where video after video auto
 
 ## Planned Features
 
-*User Sign up: Users will be able to create their own account, allowing them to build their own approved playlists for their children to watch
+* User Sign up: Users will be able to create their own account, allowing them to build their own approved playlists for their children to watch
 
-*User Login: Only the main account holder will able to login as either a parent or child once the account is created. The passwords will be hashed and salted.
+* User Login: Only the main account holder will able to login as either a parent or child once the account is created. The passwords will be hashed and salted.
 
-*Edit, Create, Delete Playlists : The users will be able to create new playlists, edit the content in existing playlists, delete whole playlists or specific videos according to their own preferences.
+* Edit, Create, Delete Playlists : The users will be able to create new playlists, edit the content in existing playlists, delete whole playlists or specific videos according to their own preferences.
 
-*Function Control: Account holders will be able to control which playlist is being shown and the ability to play, stop and pause that playlist.
+* Function Control: Account holders will be able to control which playlist is being shown and the ability to play, stop and pause that playlist.
 
-*Bluetooth Functionality: Account holders will be able to control the streaming of the playlists to other devices.
+* Bluetooth Functionality: Account holders will be able to control the streaming of the playlists to other devices.
 
 
 ## License
